@@ -1,0 +1,15 @@
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\bin\Debug\net6.0\ISHANSI.exe
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\bin\Debug\net6.0\ISHANSI.deps.json
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\bin\Debug\net6.0\ISHANSI.runtimeconfig.json
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\bin\Debug\net6.0\ISHANSI.dll
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\bin\Debug\net6.0\ISHANSI.pdb
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.dll
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\refint\ISHANSI.dll
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.pdb
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ISHANSI.genruntimeconfig.cache
+C:\Users\IshansiAgrawal\Desktop\ISHANSI\ISHANSI\obj\Debug\net6.0\ref\ISHANSI.dll
