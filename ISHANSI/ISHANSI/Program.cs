@@ -32,7 +32,6 @@ namespace ISHANSI
             //Console.WriteLine(string.Concat(o));
             //Console.WriteLine(chars);
             //Console.WriteLine(sum);
-
             var pt = new Point { X =30, Y = 12 };
             //Console.WriteLine(pt);
             //Console.WriteLine(pt.ToString());
@@ -40,18 +39,14 @@ namespace ISHANSI
             {
                // Console.WriteLine($"[args{n}] = { args[n]}");
             }
-
             program2.BirthYear = 1963;
             Console.WriteLine(program2.Generation);
-
             var neSt = "Hello Hello Hello";
             neSt.Split(" ");
             string str1 = "Pro";
             string str2 = "Pro";
-
             Console.WriteLine(string.Equals(str1, str2));
             Console.WriteLine("Value of string  s1 is " + Second.s1);
-
             Console.WriteLine(Second.name);
             Console.WriteLine("String Length: " + Second.str.Length);
             Console.WriteLine("After:");
@@ -59,10 +54,21 @@ namespace ISHANSI
             Console.WriteLine(Second.str.TrimStart(' ', 'h'));
             Console.WriteLine(Second.str.TrimEnd(' ', 'h'));
             Console.WriteLine(Second.b2);
-            
-            
+            Console.WriteLine(Second.b3);
+            Console.WriteLine("Chars to string: {0}", Second.charsStr2);
 
 
+
+
+
+
+            
+            Console.WriteLine($"nint.MinValue = {nint.MinValue}");
+            Console.WriteLine($"nint.MaxValue = {nint.MaxValue}");
+            Console.WriteLine($"nuint.MinValue = {nuint.MinValue}");
+            Console.WriteLine($"nuint.MaxValue = {nuint.MaxValue}");
+
+            
         }
     }
     enum Generation { BabyBoomer, GenX, Millenial, GenZ, GenA }
@@ -96,8 +102,6 @@ namespace ISHANSI
             }
         }
         //public static Type Calculator =
-        //static member Add (a : double, b : double) = A + b
-
-         
+        //static member Add (a : double, b : double) = A + b  
     }
 }
