@@ -1,11 +1,13 @@
-﻿using System;
+﻿using FakeItEasy;
+using System;
 using System.Drawing;
 using System.Runtime.ConstrainedExecution;
 using System.Xml.Linq;
+using Xceed.Wpf.Toolkit;
 
-namespace Hello
+namespace ISHANSI
 {
-    class program1
+    class Program
     {
         public static void Main(string[] args)
         {
@@ -21,26 +23,45 @@ namespace Hello
             char[] chars = name.ToCharArray();
             var numbers = new int[] { 1, 2, };
             var type = numbers.GetType();
-            Console.WriteLine(type.FullName);
+           // Console.WriteLine(type.FullName);
             var sum = 0;
             for ( int i = 0;i< numbers.Length;i++)
             {
                 sum += numbers[i];
             }
-            Console.WriteLine(string.Concat(o));
-            Console.WriteLine(chars);
-            Console.WriteLine(sum);
+            //Console.WriteLine(string.Concat(o));
+            //Console.WriteLine(chars);
+            //Console.WriteLine(sum);
 
             var pt = new Point { X =30, Y = 12 };
-            Console.WriteLine(pt);
-            Console.WriteLine(pt.ToString());
+            //Console.WriteLine(pt);
+            //Console.WriteLine(pt.ToString());
             for (var n = 0; n < args.Length; n++)
             {
-                Console.WriteLine($"[args{n}] = { args[n]}");
+               // Console.WriteLine($"[args{n}] = { args[n]}");
             }
 
             program2.BirthYear = 1963;
             Console.WriteLine(program2.Generation);
+
+            var neSt = "Hello Hello Hello";
+            neSt.Split(" ");
+            string str1 = "Pro";
+            string str2 = "Pro";
+
+            Console.WriteLine(string.Equals(str1, str2));
+            Console.WriteLine("Value of string  s1 is " + Second.s1);
+
+            Console.WriteLine(Second.name);
+            Console.WriteLine("String Length: " + Second.str.Length);
+            Console.WriteLine("After:");
+            Console.WriteLine(Second.str.Trim());
+            Console.WriteLine(Second.str.TrimStart(' ', 'h'));
+            Console.WriteLine(Second.str.TrimEnd(' ', 'h'));
+            Console.WriteLine(Second.b2);
+            
+            
+
 
         }
     }
@@ -74,5 +95,9 @@ namespace Hello
                 }
             }
         }
+        //public static Type Calculator =
+        //static member Add (a : double, b : double) = A + b
+
+         
     }
 }
