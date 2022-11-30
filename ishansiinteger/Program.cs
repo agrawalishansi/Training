@@ -60,13 +60,11 @@ namespace ishansiinteger
                     Console.WriteLine("nested loop");
 
 
-
             // continue statement
             for (int i = 1; i < 3; i++)
             {
                 if (i == 2)
                     continue;
-
                 Console.WriteLine("continue statement");
             }
         }  

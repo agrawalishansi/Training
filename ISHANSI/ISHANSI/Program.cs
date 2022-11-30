@@ -11,6 +11,7 @@ namespace ISHANSI
     {
         private static int priceScore;
 
+
         public static void Main(string[] args)
 
         {// defining two strings

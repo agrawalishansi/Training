@@ -1,0 +1,15 @@
+D:\Training\loops\bin\Debug\net6.0\loops.exe
+D:\Training\loops\bin\Debug\net6.0\loops.deps.json
+D:\Training\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+D:\Training\loops\bin\Debug\net6.0\loops.dll
+D:\Training\loops\bin\Debug\net6.0\loops.pdb
+D:\Training\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+D:\Training\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+D:\Training\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+D:\Training\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+D:\Training\loops\obj\Debug\net6.0\loops.dll
+D:\Training\loops\obj\Debug\net6.0\refint\loops.dll
+D:\Training\loops\obj\Debug\net6.0\loops.pdb
+D:\Training\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+D:\Training\loops\obj\Debug\net6.0\ref\loops.dll
