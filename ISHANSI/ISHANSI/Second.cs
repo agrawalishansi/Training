@@ -11,7 +11,7 @@ namespace ISHANSI
     public static class Second
     {
         // defining strings and objects initially
-        public static string name = "IShanshi";
+        public static string name = "IShansi";
         static string str1 = "Pro";
         static object[] array = {"Hello" , "Geeks",12345,786};
 

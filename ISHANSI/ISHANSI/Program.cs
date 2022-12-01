@@ -43,7 +43,7 @@ namespace ISHANSI
             char[] chars = name.ToCharArray();
             Console.WriteLine(chars);
 
-            var numbers = new int[] { 1, 2, };
+            var numbers = new int[] { 1, 2 };
             // getting type 
             var type = numbers.GetType();
             Console.WriteLine(type.FullName);

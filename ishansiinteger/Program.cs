@@ -27,6 +27,7 @@ namespace ishansiinteger
 
 
 
+
             // while loop
             int x = 1;
 

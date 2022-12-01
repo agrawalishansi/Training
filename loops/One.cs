@@ -8,11 +8,7 @@ namespace loops
 {
     public static class One
     {
-        // try catch block
-        // taking null in the string
-        
-
-        // method to display subject name   
+          
         public static void displaysubject(string sub1)
         {
             if (sub1 == null)

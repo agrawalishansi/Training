@@ -5,6 +5,7 @@ using System.Drawing;
 using System.Runtime.ConstrainedExecution;
 using System.Runtime.InteropServices;
 using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace loops
 {
@@ -20,6 +21,18 @@ namespace loops
 
             two.PrintValues();
             two.PrintSecond();
+
+
+
+            // working with optional parameters
+           int AddNumbers(int a, int b, int c = 100)
+            {
+                int sum = a + b + c;
+                return sum;
+            }
+            Console.WriteLine(AddNumbers(1, 2, 3));
+            Console.WriteLine(AddNumbers(a: 20, b: 40));
+
         }
 
             

@@ -99,30 +99,6 @@ namespace loops
             Console.WriteLine(isPunctuation);
 
 
-            // date time tracker
-            DateTime dateTime = DateTime.Now;
-            Console.WriteLine(dateTime);
-            DateTime exitDate = new DateTime(2021, 12, 11);
-            Console.WriteLine(exitDate);
-            DateTime startDate = dateTime.AddDays(15);
-            Console.WriteLine(startDate);
-            bool areWeInDst = dateTime.IsDaylightSavingTime();
-            Console.WriteLine(areWeInDst);
-            Console.WriteLine(dateTime.ToLongDateString());
-            Console.WriteLine(dateTime.ToShortTimeString());
-
-            int a = 123456789;
-            long l = a;
-
-            double d = 123456789.0;
-            int b = (int)d;
-
-            double c = 12345.0;
-            int e = (int)Convert.ChangeType(d, typeof(int));
-
-            Console.WriteLine(l);
-            Console.WriteLine(b);
-            Console.WriteLine(e);
 
             // cocatenating the string 
             string employeeName = "Bethany";
@@ -134,15 +110,7 @@ namespace loops
             int result = One.Addition(num);
             Console.WriteLine("the addition is {0}", result);
 
-            // substring
-            string firstName = "Ishansi";
-            string lastName = "Agrawal";
-            string fullName = firstName + lastName;
-            string substring = fullName.Substring(1, 3);
-            Console.WriteLine("Characters 2 to 4 of fullname are" + substring);
-
-            string nameUsingInterpolation = $"{firstName} +'-' +{lastName}";
-            Console.WriteLine(nameUsingInterpolation);
+            
         }
 }
 }
