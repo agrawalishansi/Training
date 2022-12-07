@@ -1,0 +1,15 @@
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\bin\Debug\net6.0\todaycode.exe
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\bin\Debug\net6.0\todaycode.deps.json
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\bin\Debug\net6.0\todaycode.runtimeconfig.json
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\bin\Debug\net6.0\todaycode.dll
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\bin\Debug\net6.0\todaycode.pdb
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.dll
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\refint\todaycode.dll
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.pdb
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\todaycode.genruntimeconfig.cache
+C:\Users\IshansiAgrawal\Downloads\code\todaycode\todaycode\obj\Debug\net6.0\ref\todaycode.dll
