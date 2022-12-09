@@ -8,7 +8,8 @@ namespace StringQestion
 {
     public class LongestPalindromString
     {
-        bool IsPalindrom(string s , int i, int j)
+      
+        static bool IsPalindrom(string s , int i, int j)
         {
             while (i <= j)
             {
@@ -21,7 +22,7 @@ namespace StringQestion
             return true;
         }
 
-        public string LongestPalindrome(string s)
+        static public string LongestPalindrome(string s)
         {
             var length = s.Length;
             int max = 0;
@@ -41,9 +42,16 @@ namespace StringQestion
                     }
                 }
             }
+           
+              
             var result = s.Substring(start,max);
 
             return result;
-        }
+        
+      }
+      public static void Main(String[] args){
+        var result = LongestPalindrome("abcba");
+        Console.WriteLine(result);
+      }
     }
 }
