@@ -1,6 +1,6 @@
 ﻿using System;
 namespace ConsoleApp2;
-// program to multiply two strings 
+// program to multiply two strings
 public class Program
 {
 
