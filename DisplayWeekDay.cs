@@ -4,9 +4,9 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace Geeks
+namespace DisplayWeekDay
 {
-	class GFG
+	class DisplayWeekDay
 	{
 		// Main Method
 		static void Main(string[] args)
