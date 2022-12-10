@@ -24,4 +24,4 @@ namespace ConsoleApp5
 // The example displays the following output:
 //       One or more planets begin with 'M': True
 //       One or more planets begin with 'T': False
-//       Is Pluto one of the planets? False
+//       Is Pluto one of the planets? : False
