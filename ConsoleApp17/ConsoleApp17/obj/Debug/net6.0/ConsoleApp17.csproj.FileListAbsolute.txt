@@ -1,0 +1,15 @@
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ConsoleApp17.exe
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ConsoleApp17.deps.json
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ConsoleApp17.runtimeconfig.json
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ConsoleApp17.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ConsoleApp17.pdb
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\refint\ConsoleApp17.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.pdb
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ConsoleApp17.genruntimeconfig.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ref\ConsoleApp17.dll

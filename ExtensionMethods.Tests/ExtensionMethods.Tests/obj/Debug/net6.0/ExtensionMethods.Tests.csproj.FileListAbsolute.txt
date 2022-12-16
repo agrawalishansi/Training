@@ -1,0 +1,5 @@
+C:\Users\IshansiAgrawal\Downloads\code\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.csproj.CoreCompileInputs.cache
