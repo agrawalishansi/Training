@@ -7,7 +7,6 @@ using System.ComponentModel;
 using System.Linq.Expressions;
 using System.Reflection.Emit;
 using System.Runtime.Intrinsics.X86;
-
 namespace ConsoleApp23
 {
 
