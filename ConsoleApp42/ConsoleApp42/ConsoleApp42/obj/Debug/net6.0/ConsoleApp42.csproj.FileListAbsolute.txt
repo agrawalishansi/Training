@@ -1,0 +1,31 @@
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.exe
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.deps.json
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.runtimeconfig.json
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.dll
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.pdb
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.Logic.dll
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.CopyComplete
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.dll
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\refint\ConsoleApp42.dll
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.pdb
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.genruntimeconfig.cache
+C:\Users\IshansiAgrawal\Downloads\code\New folder\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ref\ConsoleApp42.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\refint\ConsoleApp42.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp42\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.pdb
